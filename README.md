@@ -93,7 +93,7 @@ SalesAnalyzer AI is an advanced, AI-powered sales report analysis application bu
 
 ```
 salesanalyzer-ai/
-│
+├── prompts.py                      #Prompts file
 ├── main.py                         # Main Streamlit application
 ├── salesanalyzer.db               # SQLite database file (auto-created)
 ├── datasets/                      # (Optional) Folder for sample datasets
